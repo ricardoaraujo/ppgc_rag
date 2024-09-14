@@ -4,3 +4,4 @@ description: "Esta página contém informações complementares à disciplina �
 theme: jekyll-theme-leap-day
 url: "https://ricardoaraujo.github.io/ppgc_rag/"
 show_github_button: false
+show_downloads: false
