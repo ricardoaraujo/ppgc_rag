@@ -44,6 +44,10 @@ Grandes Modelos de Linguagem são um tipo de modelo de Aprendizado de Máquina, 
 
 ## Embeddings
 
+## Grandes Modelos de Linguagem
+
+- [Thinking like an AI](https://www.oneusefulthing.org/p/thinking-like-an-ai)
+
 Embeddings são representações vetoriais de dados, como palavras ou itens, em um espaço de alta dimensionalidade, permitindo capturar similaridades e relações entre eles de forma numérica. Essas representações compactas são usadas para facilitar o processamento de dados complexos e melhorar o desempenho em tarefas como processamento de linguagem natural.
 
 - [Embeddings - Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/embeddings)
