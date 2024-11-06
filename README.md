@@ -48,6 +48,7 @@ Embeddings são representações vetoriais de dados, como palavras ou itens, em 
 
 - [Embeddings - Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/embeddings)
 - [Embeddings - Data Geek](https://www.datageeks.com.br/embeddings/)
+- [Colab notebook com exemplo de uso de embeddings](https://colab.research.google.com/drive/1USpU7aV-B9urycIqBthTQtDX5T55nBlU?usp=sharing)
 
 ## Bancos de dados para embeddings
 - [Vector DB Comparison](https://superlinked.com/vector-db-comparison)
