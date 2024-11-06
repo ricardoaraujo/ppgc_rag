@@ -1,5 +1,9 @@
 # Grandes Modelos de Linguagem aplicados a Geração Aumentada via Recuperação 
 
+## Notícias
+
+- A partir do dia 13/11, as aulas ocorrerão na sala **257**
+
 ## Sobre a disciplina
 
 A Geração Aumentada via Recuperação (RAG - Retrieval-Augmented Generation) é um método que expande as capacidades dos Grandes Modelos de Linguagem (LLMs - Large Language Models) ao conectá-los a fontes externas, como bancos de dados ou documentos. Isso possibilita que os modelos acessem informações que não fizeram parte de seu treinamento, viabilizando sua aplicação em cenários que envolvem o uso de dados privados ou que requerem informações constantemente atualizadas, entre outras aplicações. Esta disciplina tem como objetivo introduzir os principais conceitos e boas práticas da Geração Aumentada via Recuperação.
