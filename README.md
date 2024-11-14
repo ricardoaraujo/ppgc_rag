@@ -2,7 +2,7 @@
 
 ## Notícias
 
-- A partir do dia 13/11, as aulas ocorrerão na sala **257**
+- A partir do dia 13/11, as aulas ocorrerão na sala **254**
 
 ## Sobre a disciplina
 
