@@ -64,4 +64,7 @@ Embeddings são representações vetoriais de dados, como palavras ou itens, em 
 
 - [Thinking like an AI](https://www.oneusefulthing.org/p/thinking-like-an-ai)
 
+## Pipeline RAG
+
+- [Código para um RAG básico](https://github.com/ricardoaraujo/ppgc_rag/blob/main/rag_basico.zip)
 
