@@ -2,6 +2,8 @@
 
 ## Notícias
 
+- Disponibilizado a descrição completa do [Projeto Final da disciplina](descricao_projeto.md)
+- Disponibilizado [formulário para submissão do projeto final](https://docs.google.com/forms/d/e/1FAIpQLSf_BLAFotM6x6JDW_3GMiIsv-C0R-j_dLKxVl4FY98g7pHaFA/viewform?usp=sf_link)
 - A partir do dia 13/11, as aulas ocorrerão na sala **254**
 
 ## Sobre a disciplina
@@ -15,6 +17,7 @@ A disciplina tem duração de 16 semanas e é dividida em duas partes. Na primei
 Cada estudante irá desenvolver um sistema baseado em RAG, aplicado a algum problema de seu interesse, a ser definido ao longo da disciplina. Embora a escolha da linguagem de programação seja livre, o uso de Python é incentivado e recomendado devido à ampla disponibilidade de ferramentas e bibliotecas que podem facilitar o desenvolvimento. Os projetos serão estruturados de forma a permitir o uso de ferramentas livres e/ou gratuitas. Esses projetos deverão demonstrar o uso de técnicas de recuperação de informações em conjunto com a geração de texto, abordando desafios como a integração de dados externos, otimização de desempenho e avaliação da relevância das respostas geradas. A documentação detalhada do processo de desenvolvimento será uma parte crucial da avaliação, garantindo que os conceitos teóricos discutidos em aula sejam aplicados de maneira prática e estruturada.
 
 - Tarefa 1: [envio de proposta de RAG](https://forms.gle/MM33KehYQC5pUx5BA)
+- Tarefa 2: [envio do projeto final](https://docs.google.com/forms/d/e/1FAIpQLSf_BLAFotM6x6JDW_3GMiIsv-C0R-j_dLKxVl4FY98g7pHaFA/viewform?usp=sf_link)
 
 ### Cronograma (sujeito a alterações)
 
