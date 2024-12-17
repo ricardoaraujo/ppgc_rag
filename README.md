@@ -6,6 +6,19 @@
 - Disponibilizado [formulário para submissão do projeto final](https://docs.google.com/forms/d/e/1FAIpQLSf_BLAFotM6x6JDW_3GMiIsv-C0R-j_dLKxVl4FY98g7pHaFA/viewform?usp=sf_link)
 - A partir do dia 13/11, as aulas ocorrerão na sala **254**
 
+# Apresentações
+
+- [Marque sua apresentação aqui](https://appt.link/meet-with-ricardo/30-min/)
+- Apresentações marcadas até 07:00 do 17/12:
+
+| Start Date | Start Time | Conference URL | First Name | Last Name | Additional Info |
+|------------|------------|----------------|------------|------------|-----------------|
+| 2024-12-18 | 10:00:00 | https://meet.google.com/mzr-qmhg-mof | Marcelo | Ribeiro | Grupo composto por: Lui Gill, Marcelo Ribeiro e Marcelo Dias |
+| 2024-12-18 | 13:00:00 | https://meet.google.com/fuf-rrgb-bdh | Alexandre | Thurow Bender | Alexandre Thurow Bender, Gabriel Almeida Gomes |
+| 2024-12-19 | 16:30:00 | https://meet.google.com/emj-fkdb-udm | Emerson | Lopes | |
+| 2024-12-19 | 17:30:00 | https://meet.google.com/ixh-ykrv-fxo | Vagner | Seibert | Grupo de Vagner e Henry |
+
+
 ## Sobre a disciplina
 
 A Geração Aumentada via Recuperação (RAG - Retrieval-Augmented Generation) é um método que expande as capacidades dos Grandes Modelos de Linguagem (LLMs - Large Language Models) ao conectá-los a fontes externas, como bancos de dados ou documentos. Isso possibilita que os modelos acessem informações que não fizeram parte de seu treinamento, viabilizando sua aplicação em cenários que envolvem o uso de dados privados ou que requerem informações constantemente atualizadas, entre outras aplicações. Esta disciplina tem como objetivo introduzir os principais conceitos e boas práticas da Geração Aumentada via Recuperação.
