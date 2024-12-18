@@ -15,7 +15,6 @@
 | Start Date | Start Time | Conference URL | First Name | Last Name | Additional Info |
 |------------|------------|----------------|------------|------------|----------------|
 | 2024-12-18 | 10:00:00 | https://meet.google.com/mzr-qmhg-mof | Marcelo | Ribeiro | Grupo composto por: Lui Gill, Marcelo Ribeiro e Marcelo Dias |
-| 2024-12-18 | 13:00:00 | https://meet.google.com/fuf-rrgb-bdh | Alexandre | Thurow Bender | Alexandre Thurow Bender, Gabriel Almeida Gomes |
 | 2024-12-18 | 14:30:00 | https://meet.google.com/vop-axet-mri | Guilherme | Lima | Apresentação do trabalho, AgroRAG. Participantes: Guilherme e Marilia |
 | 2024-12-18 | 15:00:00 | https://meet.google.com/rsu-tprz-uuu | Tobias | Francisco | Grupo: Eduardo Moller, Tobias Francisco |
 | 2024-12-18 | 15:30:00 | https://meet.google.com/roh-fuof-awz | Aline | Timm | Apresentação de Aline  e  Lucas Seidy |
@@ -25,6 +24,7 @@
 | 2024-12-19 | 17:00:00 | https://meet.google.com/ine-fkej-mdr | Bruno | Braga | Dupla: Bruno da Cruz Braga, Gustavo Lameirão de Lima |
 | 2024-12-19 | 17:30:00 | https://meet.google.com/ixh-ykrv-fxo | Vagner | Seibert | Grupo de Vagner e Henry |
 | 2024-12-20 | 08:00:00 | https://meet.google.com/ctx-sdqn-nou | Arthur | Cerveira | Grupo: Arthur Cerveira e Carlos Calage |
+| 2024-12-20 | 13:00:00 | https://meet.google.com/fuf-rrgb-bdh | Alexandre | Thurow Bender | Alexandre Thurow Bender, Gabriel Almeida Gomes |
 
 
 ## Sobre a disciplina
