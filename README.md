@@ -9,7 +9,7 @@
 # Apresentações
 
 - [Marque sua apresentação aqui](https://appt.link/meet-with-ricardo/30-min/)
-- Apresentações marcadas até 07:00 do 17/12:
+- Apresentações marcadas até 07:00 do 18/12:
 
 | Start Date | Start Time | Conference URL | First Name | Last Name | Additional Info |
 |------------|------------|----------------|------------|------------|----------------|
