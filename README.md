@@ -5,6 +5,7 @@
 - Disponibilizado a descrição completa do [Projeto Final da disciplina](descricao_projeto.md)
 - Disponibilizado [formulário para submissão do projeto final](https://docs.google.com/forms/d/e/1FAIpQLSf_BLAFotM6x6JDW_3GMiIsv-C0R-j_dLKxVl4FY98g7pHaFA/viewform?usp=sf_link)
 - A partir do dia 13/11, as aulas ocorrerão na sala **254**
+- **Não teremos aula no dia 18/12, faremos as apresentações online**
 
 # Apresentações
 
