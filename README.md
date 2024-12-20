@@ -25,6 +25,7 @@
 | 2024-12-20 | 08:00:00 | https://meet.google.com/ctx-sdqn-nou | Arthur | Cerveira | Grupo: Arthur Cerveira e Carlos Calage |
 | 2024-12-20 | 09:00:00 | https://meet.google.com/amv-rwrc-nrd | João Pedro | Tomaszewski |
 | 2024-12-20 | 13:30:00 | https://meet.google.com/fuf-rrgb-bdh | Alexandre | Thurow Bender | Alexandre Thurow Bender, Gabriel Almeida Gomes |
+| 2024-12-20 | 17:30:00 | https://meet.google.com/bfv-qunx-qry | Vagner | Seibert | 
 
 
 ## Sobre a disciplina
